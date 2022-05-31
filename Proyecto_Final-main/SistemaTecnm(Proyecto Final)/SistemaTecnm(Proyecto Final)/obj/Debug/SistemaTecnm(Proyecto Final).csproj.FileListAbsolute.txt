@@ -1,0 +1,46 @@
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe.config
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).pdb
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.AssemblyReference.cache
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.SuggestedBindingRedirects.cache
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.INICIOSESION.resources
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCalendario.resources
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCrearEvento.resources
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmVerificacion.resources
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.Properties.Resources.resources
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.GenerateResource.cache
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.CoreCompileInputs.cache
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\raque\source\repos\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).pdb
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe.config
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).pdb
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.INICIOSESION.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCalendario.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCrearEvento.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmVerificacion.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.Properties.Resources.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.UserControlBlank.resources
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).pdb
+C:\Users\andre\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.UserControlDias.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe.config
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\bin\Debug\SistemaTecnm(Proyecto Final).pdb
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.AssemblyReference.cache
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.SuggestedBindingRedirects.cache
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.INICIOSESION.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCalendario.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmCrearEvento.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.FrmVerificacion.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.Properties.Resources.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.UserControlBlank.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm_Proyecto_Final_.UserControlDias.resources
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.GenerateResource.cache
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).csproj.CoreCompileInputs.cache
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).exe
+C:\Users\raque\Desktop\Proyecto_Final-main\SistemaTecnm(Proyecto Final)\SistemaTecnm(Proyecto Final)\obj\Debug\SistemaTecnm(Proyecto Final).pdb
